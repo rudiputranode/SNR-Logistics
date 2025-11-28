@@ -15,7 +15,7 @@
 			<div class="container-fluid inner-offset">
 				<div class="hgroup text-center wow zoomIn" data-wow-delay="0.3s">
 					<h2>FOR ALL YOUR LOGISTICS NEEDS</h2>
-					<h1>ZEEL LOGISTICS -    Service Delivery with Diligence </h1>
+					<h1>PT SNR LOGISTIK INDONESIA</h1>
 				</div>            
 				<ul class="nav nav-tabs wow fadeIn" data-wow-delay="0.3s" id="myTab">
 					<li class="active"><a href="#tab1" data-toggle="tab">WHY CHOOSE US</a></li>
@@ -30,7 +30,7 @@
 								<img class="full-width" src="media/images/1.jpg" alt="Img">
 							</div>
 							<div class="col-sm-7">
-								<p><strong style="font-size:16px;">Zeel Logistics is a well-established procurement and logistics firm set up to offer back to back supply chain solutions.</strong></p>
+								<p><strong style="font-size:16px;">PT SNR LOGISTIK INDONESIA is a well-established procurement and logistics firm set up to offer back to back supply chain solutions.</strong></p>
 								<p>The dynamic changes experienced in the supply chain industry require new ideas and approach. Efficient and effective solutions are however not realized by immediate invasions but through a combination of experience and expertise from diverse situations and skillfully tailoring them to specific environments.</p>
                                 	<p>Our vision is to offer world-class procurement and logistics services making valued and measurable With today’s organizations facing considerable challenges in their attempts to attain competitive advantage from their transport & logistics solutions, the disparity in experience, skills and support services across geographically dispersed sites can reduce operational effectiveness and increase costs.</p><p>Organization’s therefore need to have single logistics partners that can advise and manage their transport and logistics solutions on local scale thereby giving them a one stop for all the operations solutions.
                                 </p>
@@ -48,11 +48,11 @@
 								<img class="full-width" src="media/images/1.jpg" alt="Img">
 							</div>
 							<div class="col-sm-7 text-block">
-								<p><strong>Zeel Logistics is a well-established procurement and logistics firm set up to offer back to back supply chain solutions. The dynamic changes experienced in the supply chain industry require new ideas and approach.</strong></p>
-								<p> Zeel Logistics endeavors to provide our customers with world-class service quality; we have carefully invested our resources to the service areas that matter most to our customers, this is why we are able to provide you with the unique service.
+								<p><strong>PT SNR LOGISTIK INDONESIA is a well-established procurement and logistics firm set up to offer back to back supply chain solutions. The dynamic changes experienced in the supply chain industry require new ideas and approach.</strong></p>
+								<p> PT SNR LOGISTIK INDONESIA endeavors to provide our customers with world-class service quality; we have carefully invested our resources to the service areas that matter most to our customers, this is why we are able to provide you with the unique service.
                                 </p>
                                 <p>
-                                    Zeel logistics has employed the best staff in its logistics operation to ensure that service provided is above the industry’s best practices</p>
+                                    PT SNR LOGISTIK INDONESIA has employed the best staff in its logistics operation to ensure that service provided is above the industry’s best practices</p>
                                 
 								<p>
                                     We integrate our experience of many similar challenges in a pragmatic way to ensure that the core
@@ -70,7 +70,7 @@
 								<img class="full-width" src="media/images/1.jpg" alt="Img">
 							</div>
 							<div class="col-sm-7 text-block">
-								<p><strong>Zeel Logistics believe in providing our clients with high quality level of service that meets the client’s requirement and also adds value to their operations. We commit ourselves to;</strong></p>
+								<p><strong>PT SNR LOGISTIK INDONESIA believe in providing our clients with high quality level of service that meets the client’s requirement and also adds value to their operations. We commit ourselves to;</strong></p>
 								<ul class="fa-ul">
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
@@ -108,7 +108,7 @@ mapped to
                               </li>
                            </ul>
                                 <p>
-                                    Zeel Logistics has proven experience in cost effectively and timely management of Logistics operation needs.<br>
+                                    PT SNR LOGISTIK INDONESIA has proven experience in cost effectively and timely management of Logistics operation needs.<br>
                                     We provide logistics support for major freighting companies. 
 
                                 </p>
@@ -148,13 +148,13 @@ mapped to
 			<div class="bg-image parallax" style="background-image:url(media/bg/4.jpg);">
 				<div class="container-fluid text-center wow fadeInUp" data-wow-delay="0.3s">
 					<h1>WE ARE DEDICATED TO PROVIDE THE BEST SERVICE <br> AT THE LOWEST POSSIBLE COST</h1>
-					<a class="btn btn-success" href="contact.php">CONTACT US</a>
+					<a class="btn btn-danger" href="contact.php">CONTACT US</a>
 				</div>
 			</div>
 
 			<div class="container-fluid block-content inner-offset">
 				<div class="hgroup text-center wow fadeInUp" data-wow-delay="0.3s">
-					<h1>ZEEL LOGISTICS</h1>
+					<h1>PT SNR LOGISTIK INDONESIA</h1>
 					<h2>SERVICE DELIVERY WITH DILIGENCE</h2>
 				</div>
                 

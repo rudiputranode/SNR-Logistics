@@ -4,12 +4,12 @@
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Zeel Logistics.</title>
+        <title>PT SNR LOGISTIK INDONESIA</title>
         <link rel="shortcut icon" href="img/favicon.png" sizes="16x16 32x32" type="image/x-icon">
         <link href="css/master.css" rel="stylesheet">
-        <meta name="description" content="Trucking is transportation and Logistics website Kenya, ">
+        <meta name="description" content="PT SNR LOGISTIK INDONESIA menyediakan layanan logistik dan supply chain terintegrasi di Indonesia.">
         <meta name="author" content="Astute-Technologies">
-        <meta name="keywords" content="transportation, logistics, transportation template, logistics template, cargo,  Nairobi Goods and Sevices, Transport Solutions,business">
+        <meta name="keywords" content="PT SNR LOGISTIK INDONESIA, logistik indonesia, supply chain, transport, cargo, warehouse">
 
 		<!-- SWITCHER -->
 		<link rel="stylesheet" id="switcher-css" type="text/css" href="assets/switcher/css/switcher.css" media="all" />

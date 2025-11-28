@@ -28,7 +28,7 @@
 								<img src="media/images/4.jpg" class="full-width" alt="Img">
 								<h4>INTERNATIONAL LOGISTICS & TRANSPORTATION</h4>
 								<p>Strategic Sourcing Procurement Modern day procurement undertaken with improved compliance can result in greater savings.</p>
-                                <p> Zeel ensures that sourcing of goods is done with utmost professionalism taken into consideration to ensure that the correct goods and services are delivered.</p>
+                                <p> PT SNR LOGISTIK INDONESIA ensures that sourcing of goods is done with utmost professionalism taken into consideration to ensure that the correct goods and services are delivered.</p>
 								
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">

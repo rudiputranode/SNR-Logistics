@@ -23,7 +23,7 @@
 						<div class="adress-details wow fadeInLeft" data-wow-delay="0.3s">
 							<div>
 								<span><i class="fa fa-location-arrow"></i></span>
-								<div><strong>Zeel Logistics Ltd.</strong><br>Sifa Towers, Kilimani,Ring Road </div>
+								<div><strong>PT SNR LOGISTIK INDONESIA</strong><br>Sifa Towers, Kilimani,Ring Road </div>
 							</div>
 							<div>
 								<span><i class="fa fa-phone"></i></span>
@@ -31,7 +31,7 @@
 							</div>
 							<div>
 								<span><i class="fa fa-envelope"></i></span>
-								<div>info@zeel.co.ke</div>
+								<div>info@snrlogistik.co.id</div>
 							</div>
 							<div>
 								<span><i class="fa fa-clock-o"></i></span>
@@ -43,7 +43,7 @@
 						<div class="adress-details wow fadeInLeft" data-wow-delay="0.3s">
 							<div>
 								<span><i class="fa fa-location-arrow"></i></span>
-								<div><strong>Zeel Logistics Ltd.</strong><br>American Block Residence Lane,Building 1,Door 3,Airport Road </div>
+								<div><strong>PT SNR LOGISTIK INDONESIA</strong><br>American Block Residence Lane,Building 1,Door 3,Airport Road </div>
 							</div>
 							<div>
 								<span><i class="fa fa-phone"></i></span>
@@ -51,7 +51,7 @@
 							</div>
 							<div>
 								<span><i class="fa fa-envelope"></i></span>
-								<div>info@zeel.co.ke</div>
+								<div>info@snrlogistik.co.id</div>
 							</div>
 							<div>
 								<span><i class="fa fa-clock-o"></i></span>
@@ -105,7 +105,7 @@
 								<textarea id="comments" name="comments" placeholder="Message"></textarea>
 							</div>
 							<div class="form-action form-elem">
-                                <button type="submit" name="submit" class="btn btn-success"> send message</button>
+                                <button type="submit" name="submit" class="btn btn-danger"> send message</button>
                             </div>
 						</form>
 					</div>

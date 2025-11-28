@@ -16,16 +16,16 @@
 	                </div>
 	                <div class="row header">
 	                    <div class="col-sm-3 col-md-3 col-lg-3">
-	                        <img src="img/logo.png" width="200px" alt="Zeel Logistics"/>
+	                        <img src="img/logo.png" width="200px" alt="PT SNR LOGISTIK INDONESIA"/>
 
 	                    </div>
 	                    <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
 	                        <div class="text-right header-padding">
 	                           
-	                            <div class="h-block"><span>EMAIL US</span>info@zeel.co.ke</div>
+	                            <div class="h-block"><span>EMAIL US</span>info@snrlogistik.co.id</div>
 	                            <div class="h-block"><span>WORKING HOURS</span> 8.00 - 17.00</div>
                                 <div class="h-block"><span>WORKING DAYS</span>Mon - Sat</div>
-	                            <a class="btn btn-success" href="contact.php">CONTACT US TODAY</a>
+	                            <a class="btn btn-danger" href="contact.php">CONTACT US TODAY</a>
 	                        </div>
 	                    </div>
 	                </div>

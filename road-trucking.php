@@ -24,17 +24,17 @@
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
                                 <p>The increased trade between countries has stimulated haulage by road. Goods can be carried from door to door within East Africa and Comesa countries accessible by road from the Port of Mombasa, Kenya. </p>
-                                <p>Zeel Logistics prides itself in its ability to offer efficient transport solutions using its fleet of trucks. Our trucks are fitted with a Real-time Satellite Tracking over digital maps, which allow the management to view the fleet location over the Internet based on GPS through IDEN/GSM Communication System. This device ensures that the trucks position is known all the time.</p>
+                                <p>PT SNR LOGISTIK INDONESIA prides itself in its ability to offer efficient transport solutions using its fleet of trucks. Our trucks are fitted with a Real-time Satellite Tracking over digital maps, which allow the management to view the fleet location over the Internet based on GPS through IDEN/GSM Communication System. This device ensures that the trucks position is known all the time.</p>
 								
 								<img src="media/images/4.jpg" class="full-width" alt="Img">
 								<h4>INTERNATIONAL LOGISTICS & TRANSPORTATION</h4>
 								<p>Strategic Sourcing Procurement Modern day procurement undertaken with improved compliance can result in greater savings.</p>
-                                <p> Zeel ensures that sourcing of goods is done with utmost professionalism taken into consideration to ensure that the correct goods and services are delivered.</p>
+                                <p> PT SNR LOGISTIK INDONESIA ensures that sourcing of goods is done with utmost professionalism taken into consideration to ensure that the correct goods and services are delivered.</p>
 								
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
                                 <h4>What we offer</h4>
-                                <p>Zeel Logistics provides a reasonable yet comprehensive transportation network within East Africa and will be in a position to handle the following:</p>
+                                <p>PT SNR LOGISTIK INDONESIA provides a reasonable yet comprehensive transportation network within East Africa and will be in a position to handle the following:</p>
 								<ul class="fa-ul">
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>

@@ -1,4 +1,4 @@
 # logistics-website
-http://zeel.co.ke/
+ https://snrlogistik.co.id/
 this is a static HTML Website. Feel free to use
 # SNR-Logistics

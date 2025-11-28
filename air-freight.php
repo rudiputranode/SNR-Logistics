@@ -23,17 +23,17 @@
 						<img src="media/images/7.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Img">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-                                <p>Air Freight as a means of ferrying goods has its timely and security advantages and is the best when distance plays a challenge. Zeel Logistics using its network with airlines, we are able to offer international coverage on air freight to and from whichever part of the world and also assist in interconnections of flights schedules for Transit Cargo. 
+                                <p>Air Freight as a means of ferrying goods has its timely and security advantages and is the best when distance plays a challenge. PT SNR LOGISTIK INDONESIA using its network with airlines, we are able to offer international coverage on air freight to and from whichever part of the world and also assist in interconnections of flights schedules for Transit Cargo. 
 								</p>
 								
 								<img src="media/images/4.jpg" class="full-width" alt="Img">
 								
-								<p>   Our dedicated staff team have put themselves in line and created a rapport with regional airlines and will ensure that air freight services meet the customer’s expectations. We at Zeel will offer cost effective management of customs of clearance, bonding, regulatory declarations, exemptions and any other requirements as per the country of arrival. Our good relationship with major carriers and airlines give us the competitive edge to satisfy our customer requirements.</p>
+								<p>   Our dedicated staff team have put themselves in line and created a rapport with regional airlines and will ensure that air freight services meet the customer’s expectations. We at PT SNR LOGISTIK INDONESIA will offer cost effective management of customs of clearance, bonding, regulatory declarations, exemptions and any other requirements as per the country of arrival. Our good relationship with major carriers and airlines give us the competitive edge to satisfy our customer requirements.</p>
 								
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
                                 <h4>What we offer</h4>
-                                <p>Zeel Logistics Ltd. can organize scheduled flights and chartered planes from a wide range of major carriers making us flexible enough to help everyone from first-time shippers to regular importers and exporters of freight.</p>
+                                <p>PT SNR LOGISTIK INDONESIA can organize scheduled flights and chartered planes from a wide range of major carriers making us flexible enough to help everyone from first-time shippers to regular importers and exporters of freight.</p>
 								<ul class="fa-ul">
                                     <li>
                                         <i class="fa fa-li fa-long-arrow-right"></i>

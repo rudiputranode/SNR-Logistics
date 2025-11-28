@@ -11,25 +11,25 @@
 
 /* Colors */
 .demopage-color{
-	color: #1397cf !important;
+	color: #c1121f !important;
 }
 .demopage-color-hover:hover,
 .demopage-color-hover:focus{
-	color: #1397cf !important;
+	color: #c1121f !important;
 }
 .demopage-bg{
-	background-color: #1397cf !important;
+	background-color: #c1121f !important;
 }
 .demopage-bg-hover:hover,
 .demopage-bg-hover:focus{
-	background-color: #1397cf !important;
+	background-color: #c1121f !important;
 }
 .demopage-border{
-	border-color: #1397cf !important;
+	border-color: #c1121f !important;
 }
 .demopage-border-hover:hover,
 .demopage-border-hover:focus{
-	border-color: #1397cf !important;
+	border-color: #c1121f !important;
 }
 
 

@@ -23,7 +23,7 @@
 						<img src="media/images/10.png" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Img">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-                                <p>Zeel has wide experience in handling Imports and Exports in Kenya, South Sudan and other adjoining COMESA countries
+                                <p>PT SNR LOGISTIK INDONESIA has wide experience in handling Imports and Exports in Kenya, South Sudan and other adjoining COMESA countries
 
 								</p>
 								
@@ -31,7 +31,7 @@
 		
 							<h4>INTERNATIONAL LOGISTICS & TRANSPORTATION</h4>
 								<p>Strategic Sourcing Procurement Modern day procurement undertaken with improved compliance can result in greater savings.</p>
-                                <p> Zeel ensures that sourcing of goods is done with utmost professionalism taken into consideration to ensure that the correct goods and services are delivered.</p>	
+                                <p> PT SNR LOGISTIK INDONESIA ensures that sourcing of goods is done with utmost professionalism taken into consideration to ensure that the correct goods and services are delivered.</p>	
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
                                 <h4>What we offer</h4>

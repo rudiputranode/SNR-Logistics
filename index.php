@@ -32,7 +32,7 @@
 	                                <h1>SUPPLY CHAIN SOLUTIONS</h1>
 	                            </div>
 	                        </div>
-	                        <p>Specialized,organized and complete supply chain management solutions tailored to fit your needs. From planning and analysis to quality control.<br><a class="btn btn-success" href="#">LEARN MORE</a></p>
+	                        <p>Specialized,organized and complete supply chain management solutions tailored to fit your needs. From planning and analysis to quality control.<br><a class="btn btn-danger" href="#">LEARN MORE</a></p>
 	                    </div>
 	                </div>
 	            </div>
@@ -49,7 +49,7 @@
 	                                <h1>CLEARANCE AND FORWARDING</h1>
 	                            </div>
 	                        </div>
-	                        <p>Customs clearance,rules and processes can be confusing in Kenya but our goal is make customs brokerage as easy as possible for you.<br><a class="btn btn-success" href="#">LEARN MORE</a></p>
+	                        <p>Customs clearance,rules and processes can be confusing in Kenya but our goal is make customs brokerage as easy as possible for you.<br><a class="btn btn-danger" href="#">LEARN MORE</a></p>
 	                    </div>
 	                </div>
 	            </div>
@@ -66,7 +66,7 @@
 	                                <h1 >ROAD TRUCKING</h1>
 	                            </div>
 	                        </div>
-	                        <p>We provide a reasonable yet comprehensive transportation network within East Africa and will be in a position to handle your transport needs.<br><a class="btn btn-success" href="#">LEARN MORE</a></p>
+	                        <p>We provide a reasonable yet comprehensive transportation network within East Africa and will be in a position to handle your transport needs.<br><a class="btn btn-danger" href="#">LEARN MORE</a></p>
 	                    </div>
 	                </div>
 	            </div>
@@ -83,7 +83,7 @@
 	                                <h1>AIR FREIGHT</h1>
 	                            </div>
 	                        </div>
-	                        <p>We are able to offer international coverage on air freight and also assist in interconnections of flights schedules for Transit Cargo.<br><a class="btn btn-success" href="#">LEARN MORE</a></p>
+	                        <p>We are able to offer international coverage on air freight and also assist in interconnections of flights schedules for Transit Cargo.<br><a class="btn btn-danger" href="#">LEARN MORE</a></p>
 	                    </div>
 	                </div>
 	            </div>
@@ -100,7 +100,7 @@
 	                                <h1> IMPORTS AND EXPORTS OF GOODS</h1>
 	                            </div>
 	                        </div>
-	                        <p>We undertake actual clearance at the border points, land and air and ensure that regulations are followed and correct tariffs are subjected to the goods.<br><a class="btn btn-success" href="#">LEARN MORE</a></p>
+	                        <p>We undertake actual clearance at the border points, land and air and ensure that regulations are followed and correct tariffs are subjected to the goods.<br><a class="btn btn-danger" href="#">LEARN MORE</a></p>
 	                    </div>
 	                </div>
 	            </div>
@@ -136,9 +136,9 @@
 	        <div class="big-hr color-1 wow zoomInUp" data-wow-delay="0.3s">
         		<div class="text-left" style="margin-right:40px;">
             		<h2>We provide first class logistics services worldwide.</h2>
-            		<p>Zeel Logistics is a well-established supply chain solution's firm majoring in logistics and consultancy.</p>
+            		<p>PT SNR LOGISTIK INDONESIA is a well-established supply chain solution's firm majoring in logistics and consultancy.</p>
 				</div>
-	            <div><a class="btn btn-success btn-lg" href="contact.php">CONTACT US TODAY</a></div>
+	            <div><a class="btn btn-danger btn-lg" href="contact.php">CONTACT US TODAY</a></div>
 	        </div>
 	        
 	        <div class="container-fluid block-content">
@@ -152,7 +152,7 @@
                     		<span><i class="glyph-icon flaticon-boats4"></i>
                             </span>
                     		<h4>CLEARANCE AND FORWARDING</h4>
-	                        <p>Zeel has wide experience in handling Imports and Exports in Kenya, South Sudan and other </p>
+	                        <p>PT SNR LOGISTIK INDONESIA has wide experience in handling Imports and Exports in Kenya, South Sudan and other </p>
 	                    </a>
 	                </div>
 	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInUp" data-wow-delay="0.3s">
@@ -173,7 +173,7 @@
                 		<a href="goods.php">
                     		<span><i class="glyph-icon flaticon-package7"></i></span>
                     		<h4>IMPORT AND EXPORT OF GOODS</h4>
-                            <p>Zeel has wide experience in handling Imports and Exports in Kenya, South Sudan and other </p>
+                            <p>PT SNR LOGISTIK INDONESIA has wide experience in handling Imports and Exports in Kenya, South Sudan and other </p>
 	                    </a>
 	                </div>
 	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInUp" data-wow-delay="0.3s">
@@ -187,7 +187,7 @@
                 		<a href="supply-chain-management.php">
                     		<span><i class="glyph-icon flaticon-traffic-signal"></i></span>
                     		<h4>SUPPLY CHAIN CONSULTANCY </h4>
-                            <p> Zeel is capable of assisting reviewing procurement organizations for best practices and </p>
+                            <p> PT SNR LOGISTIK INDONESIA is capable of assisting reviewing procurement organizations for best practices and </p>
 	                    </a>
 	                </div>
 	            </div>
