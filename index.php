@@ -113,21 +113,21 @@
 	                    <span></span>
 	                    <h3>FAST CARGO MOVEMENT</h3>
 	                    <p>We are able to marshall resources and more required cargo from origin to the required destination within the shortest time period.</p>
-	                    <a class="btn btn-default btn-sm" href="goods.php">READ MORE</a>
+	                    <a class="btn btn-default btn-sm" href="goods.html">READ MORE</a>
 	                </div>
 	                <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInUp" data-wow-delay="3.3s">
                 		<img src="media/3-column-info/2.jpg" alt="Img">
 	                    <span></span>
 	                    <h3>FAST AIR FREIGHT</h3>
 	                    <p> we are able to offer international coverage on air freight and also assist in interconnections of flights schedules for Transit Cargo</p>
-	                    <a class="btn btn-default btn-sm" href="air-freight.php">READ MORE</a>
+	                    <a class="btn btn-default btn-sm" href="air-freight.html">READ MORE</a>
 	                </div>
 	                <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInRight" data-wow-delay="3.3s">
                 		<img src="media/3-column-info/3.jpg" alt="Img">
 	                    <span></span>
 	                    <h3>GROUND SHIPPING</h3>
 	                    <p>We provide a reasonable yet comprehensive transportation network within East and Central Africa road from the Port.</p>
-	                    <a class="btn btn-default btn-sm" href="road-trucking.php">READ MORE</a>
+	                    <a class="btn btn-default btn-sm" href="road-trucking.html">READ MORE</a>
 	                </div>
 	            </div>
 	        </div>
@@ -138,7 +138,7 @@
             		<h2>We provide first class logistics services worldwide.</h2>
             		<p>PT SNR LOGISTIK INDONESIA is a well-established supply chain solution's firm majoring in logistics and consultancy.</p>
 				</div>
-	            <div><a class="btn btn-danger btn-lg" href="contact.php">CONTACT US TODAY</a></div>
+	            <div><a class="btn btn-danger btn-lg" href="contact.html">CONTACT US TODAY</a></div>
 	        </div>
 	        
 	        <div class="container-fluid block-content">
@@ -148,7 +148,7 @@
 	            </div>
 				<div class="row our-services">
             		<div class="col-sm-6 col-md-4 col-lg-4 wow zoomInLeft" data-wow-delay="0.3s">
-                		<a href="clearance.php">
+                		<a href="clearance.html">
                     		<span><i class="glyph-icon flaticon-boats4"></i>
                             </span>
                     		<h4>CLEARANCE AND FORWARDING</h4>
@@ -156,35 +156,35 @@
 	                    </a>
 	                </div>
 	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInUp" data-wow-delay="0.3s">
-                		<a href="road-trucking.php">
+                		<a href="road-trucking.html">
                     		<span><i class="glyph-icon flaticon-railway1"></i></span>
                     		<h4>Road Trucking</h4>
 	                        <p> The increased trade between countries has stimulated haulage by road. Goods can be carried</p>
 	                    </a>
 	                </div>
 	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInRight" data-wow-delay="0.3s">
-                		<a href="air-freight.php">
+                		<a href="air-freight.html">
                     		<span><i class="glyph-icon flaticon-flying"></i></span>
                     		<h4>INTERNATIONAL AIR FREIGHT</h4>
 	                        <p>Air Freight as a means of ferrying goods has its timely and security advantages and is the </p>
 	                    </a>
 	                </div>
 	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInLeft" data-wow-delay="0.3s">
-                		<a href="goods.php">
+                		<a href="goods.html">
                     		<span><i class="glyph-icon flaticon-package7"></i></span>
                     		<h4>IMPORT AND EXPORT OF GOODS</h4>
                             <p>PT SNR LOGISTIK INDONESIA has wide experience in handling Imports and Exports in Kenya, South Sudan and other </p>
 	                    </a>
 	                </div>
 	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInUp" data-wow-delay="0.3s">
-                		<a href="warehousing.php">
+                		<a href="warehousing.html">
                     		<span><i class="glyph-icon flaticon-garage1"></i></span>
                     		<h4>WAREHOUSING</h4>
                             <p>We offer our fleet to customers for local deliveries in times of need where no international</p>
 	                    </a>
 	                </div>
 	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInRight" data-wow-delay="0.3s">
-                		<a href="supply-chain-management.php">
+                		<a href="supply-chain-management.html">
                     		<span><i class="glyph-icon flaticon-traffic-signal"></i></span>
                     		<h4>SUPPLY CHAIN CONSULTANCY </h4>
                             <p> PT SNR LOGISTIK INDONESIA is capable of assisting reviewing procurement organizations for best practices and </p>
@@ -271,12 +271,12 @@
 	                    <h1>CUSTOMISED SERVICES</h1>
 	                    
 	                </div>
-	                <a class="btn btn-danger pull-right read-all-news wow fadeInRight" data-wow-delay="0.3s" href="services.php">VIEW ALL SERVICES</a>
+	                <a class="btn btn-danger pull-right read-all-news wow fadeInRight" data-wow-delay="0.3s" href="services.html">VIEW ALL SERVICES</a>
 	                <div class="row">
                 		<div class="col-sm-6 col-md-6 col-lg-6 one-news wow fadeInLeft" data-wow-delay="0.3s">
                     		<div style="background-image:url(media/3-column-info/2.jpg);">
                         		<div>
-                            		<a href="air-freight.php"><h3>AIR FREIGHT SERVICES</h3></a>
+                            		<a href="air-freight.html"><h3>AIR FREIGHT SERVICES</h3></a>
 	                                
 	                            </div>
 	                        </div>
@@ -288,7 +288,7 @@
 	                            </div>
 	                            <div class="col-sm-6 col-md-6 col-lg-6">
 	                                <div>
-	                                    <a href="road-trucking.php"><h3>ROAD TRUCKING</h3></a>
+	                                    <a href="road-trucking.html"><h3>ROAD TRUCKING</h3></a>
 	                                    
 	                                </div>
 	                            </div>
@@ -299,7 +299,7 @@
 	                            </div>
 	                            <div class="col-sm-6 col-md-6 col-lg-6">
 	                                <div>
-	                                    <a href="goods.php"><h3>IMPORTS & EXPORTS OF GOODS</h3></a>
+	                                    <a href="goods.html"><h3>IMPORTS & EXPORTS OF GOODS</h3></a>
 	                               
 	                                </div>
 	                            </div>

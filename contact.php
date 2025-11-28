@@ -7,7 +7,7 @@
 				<div class="container-fluid">
 					<a href="#"><h1>OUR CONTACTS AND LOCATION</h1></a>
 					<div class="pull-right">
-						<a href=""><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="contact.php">Our contacts</a>
+						<a href=""><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="contact.html">Our contacts</a>
 					</div>
 				</div>
 			</div>
@@ -62,19 +62,14 @@
 					<div class="col-sm-8 wow fadeInRight" data-wow-delay="0.3s">
 						<h4>SEND us a message</h4>
                         
-				<?php
-                    if(isset($_GET['response1'])){	
-                    @$response1 = $_GET['response1'];
-                ?>
-                <div class="col-md-12" >
-			         <div class="alert alert-success display" id="msg">
-                    <span class="glyphicon glyphicon-ok"></span> <?php echo "".$response1.""; ?>
+				<div class="col-md-12">
+			         <div class="alert alert-info display" id="msg">
+                    <span class="glyphicon glyphicon-info-sign"></span> Hubungi kami melalui formulir berikut atau email langsung ke info@snrlogistik.co.id.
                     </div>
 				</div>
-				<?php } ?>
 						<p>We are here to answer any questions you may have about our combadi experiences. Reach out to us and we'll respond as soon as we can.</p>
 						<div id="success"></div>
-						<form  method="post"  action="send-email.php" class=" form-inline">
+						<form  method="post"  action="mailto:info@snrlogistik.co.id" enctype="text/plain" class=" form-inline">
 							<div class="row form-elem">	
 								<div class="col-sm-6 form-elem">
 									<div class="form-group default-inp form-elem">

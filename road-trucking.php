@@ -8,7 +8,7 @@
 				<div class="container-fluid">
 					<a href="#"><h1>ROAD TRUCKING</h1></a>
 					<div class="pull-right">
-						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.php">Our services</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="road-trucking.php">Road trucking</a>
+						<a href="index.html"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.html">Our services</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="road-trucking.html">Road trucking</a>
 					</div>
 				</div>
 			</div>
@@ -70,7 +70,7 @@
 							</div>
 						</div>
 						<p class="text-center">
-							<a href="contact.php" class="btn btn-danger btn-default wow zoomIn" data-wow-delay="0.3s">contact us</a>
+							<a href="contact.html" class="btn btn-danger btn-default wow zoomIn" data-wow-delay="0.3s">contact us</a>
 						</p>
 					</div>
 				</div>            

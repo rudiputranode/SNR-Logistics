@@ -13,27 +13,27 @@
 	                            <a href="#"><i class="fa fa-pinterest-square fa-2x"></i></a>
 	                            <a href="#"><i class="fa fa-vimeo-square fa-2x"></i></a>
 	                        </div>
-	                        <a href="contact.php" class="btn btn-lg btn-danger">CONTACT US TODAY</a>
+	                        <a href="contact.html" class="btn btn-lg btn-danger">CONTACT US TODAY</a>
 	                    </div>
 	                    <div class="col-sm-2 wow zoomIn" data-wow-delay="0.3s">
                     		<h4>WHAT WE OFFER</h4>
 	                        <nav>
-                        		<a href="clearance.php">Clearance & Forwarding</a>
-	                            <a href="road-trucking.php">Road Transportation</a>
-	                            <a href="air-freight.php">Air Freight</a>
-	                            <a href="goods.php">Import & Exports of Goods</a>
-	                            <a href="warehousing.php">Warehousing</a>
-	                            <a href="supply-chain-management.php">Supply Chain</a>
+                        		<a href="clearance.html">Clearance & Forwarding</a>
+	                            <a href="road-trucking.html">Road Transportation</a>
+	                            <a href="air-freight.html">Air Freight</a>
+	                            <a href="goods.html">Import & Exports of Goods</a>
+	                            <a href="warehousing.html">Warehousing</a>
+	                            <a href="supply-chain-management.html">Supply Chain</a>
 	                        </nav>
 	                    </div>
 	                    <div class="col-sm-2 wow zoomIn" data-wow-delay="0.3s">
                     		<h4>MAIN LINKS</h4>
 	                        <nav>
-                        		<a href="index.php">Home</a>
-	                            <a href="services.php">Our Services</a>
-	                            <a href="about-us.php">About Us</a>
+                        		<a href="index.html">Home</a>
+	                            <a href="services.html">Our Services</a>
+	                            <a href="about-us.html">About Us</a>
 	                            
-	                            <a href="contact.php">Contact</a>
+	                            <a href="contact.html">Contact</a>
 	                        </nav>
 	                    </div>
 	                    <div class="col-sm-4 wow zoomIn" data-wow-delay="0.3s">
