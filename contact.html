@@ -131,7 +131,7 @@
 						<div class="adress-details wow fadeInLeft" data-wow-delay="0.3s">
 							<div>
 								<span><i class="fa fa-location-arrow"></i></span>
-                                <div><strong>PT SNR LOGISTIK INDONESIA</strong><br>Jl. Sumur Batu Raya no. 5C Sumur Batu – Kemayoran – Jakarta Pusat 10650</div>
+                                <div><strong>PT SNR LOGISTIK INDONESIA</strong><br>Jl. Serdang Raya No. 88 Kel. Serdang – Kemayoran – Jakarta Pusat 10650</div>
 							</div>
 							<div>
 								<span><i class="fa fa-phone"></i></span>
@@ -157,7 +157,7 @@
 				</div>
 						<p>We are here to answer any questions you may have about our combadi experiences. Reach out to us and we'll respond as soon as we can.</p>
 						<div id="success"></div>
-                        <form  method="post"  action="mailto:snrjkt@snr-logistik.co.id" enctype="text/plain" class=" form-inline">
+                        <form id="contactForm" class="form-inline">
 							<div class="row form-elem">	
 								<div class="col-sm-6 form-elem">
 									<div class="form-group default-inp form-elem">
@@ -166,7 +166,7 @@
 									</div>
 									<div class="form-group default-inp form-elem">
 										<i class="fa fa-envelope"></i>
-										<input type="text" name="email" id="user-email" placeholder="Email Address" required="required">
+										<input type="email" name="email" id="user-email" placeholder="Email Address" required="required">
 									</div>
 								</div>
 								<div class="col-sm-6 form-elem">
@@ -188,7 +188,7 @@
 								<textarea id="comments" name="comments" placeholder="Message"></textarea>
 							</div>
 							<div class="form-action form-elem">
-                                <button type="submit" name="submit" class="btn btn-danger"> send message</button>
+                                <button type="submit" name="submit" class="btn btn-danger">send message</button>
                             </div>
 						</form>
 					</div>
@@ -245,7 +245,7 @@
 	                        </div>
 	                    </div>
 	                </div>
-             		<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a>Created by <a href="#">Astute Tech</a> &copy; 2017 PT SNR LOGISTIK INDONESIA. All rights reserved.</div>
+                <div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a>Created by rudiputra &copy; 2025 PT SNR LOGISTIK INDONESIA. All rights reserved.</div>
 	             </div>
 	        </footer>
 		</div>
@@ -259,9 +259,6 @@
 		<script src="assets/switcher/js/switcher.js"></script>
 		<!--Owl Carousel-->
 		<script src="assets/owl-carousel/owl.carousel.min.js"></script>
-		<!--
-		<script src="assets/contact/jqBootstrapValidation.js"></script> 
-		<script src="assets/contact/contact_me.js"></script>
 		<!-- SCRIPTS -->
 	    <script type="text/javascript" src="assets/isotope/jquery.isotope.min.js"></script>
 		<!--Theme-->
@@ -270,6 +267,36 @@
 		<script src="js/jquery.placeholder.min.js"></script>
 		<script src="js/smoothscroll.min.js"></script>
 		<script src="js/theme.js"></script>
+
+		<!-- Custom Script untuk Form Contact -->
+		<script>
+		document.getElementById('contactForm').addEventListener('submit', function(e) {
+			e.preventDefault();
+			
+			// Ambil nilai dari setiap field
+			var firstName = document.getElementById('user-name').value;
+			var lastName = document.getElementById('user-lastname').value;
+			var email = document.getElementById('user-email').value;
+			var phone = document.getElementById('user-phone').value;
+			var subject = document.getElementById('user-subject').value;
+			var message = document.getElementById('comments').value;
+			
+			// Buat body email dengan format yang rapi
+			var emailBody = 'First Name: ' + firstName + '%0D%0A';
+			emailBody += 'Last Name: ' + lastName + '%0D%0A';
+			emailBody += 'Email: ' + email + '%0D%0A';
+			emailBody += 'Phone: ' + phone + '%0D%0A%0D%0A';
+			emailBody += 'Message:%0D%0A' + message;
+			
+			// Buat mailto link dengan subject dan body
+			var mailtoLink = 'mailto:snrjkt@snr-logistik.co.id';
+			mailtoLink += '?subject=' + encodeURIComponent(subject);
+			mailtoLink += '&body=' + emailBody;
+			
+			// Buka aplikasi email default
+			window.location.href = mailtoLink;
+		});
+		</script>
 	</body>
 
 </html>
